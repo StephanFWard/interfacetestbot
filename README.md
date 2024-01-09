@@ -1,4 +1,4 @@
-# Linkedin-auto-apply-bot-for-jobs
+# Interfacetestbot
 
 ## Overview
 Linkedin-auto-apply-bot-for-jobs is a web scraping automation tool built in JavaScript (Node) using the Playwright library. This bot simplifies the job application process on LinkedIn by automating the "Easy Apply" feature. It can help you save time and effortlessly apply for jobs on LinkedIn.
